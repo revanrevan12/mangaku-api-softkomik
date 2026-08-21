@@ -1,0 +1,15 @@
+{
+  "source": "SoftKomik",
+  "website_url": "https://softkomik.co",
+  "generated_at": "2026-08-21T08:10:58.343Z",
+  "structure": "json-ld",
+  "parser_verdict": "PARSER PARTIAL",
+  "api_base": "/hcgi/api/generator/api/7fdnjx8sc1vp6jw",
+  "endpoints": [
+    "GET /manga",
+    "GET /search?q=",
+    "GET /manga/{id}",
+    "GET /manga/{id}/chapters",
+    "GET /chapter/{chapterId}"
+  ]
+}
